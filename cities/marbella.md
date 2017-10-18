@@ -10,7 +10,7 @@ organiser:
     email: marbella@mathsjam.com
 location:
     group: rest-of-world
-    pub_name: "a location TBC"
+    pub_name: Smallworld Cafe
     description: ""
     url: 
     lon: -5.0050844
